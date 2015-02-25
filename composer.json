@@ -1,0 +1,23 @@
+{
+  "name": "jaysson/ccavenue",
+  "description": "CCAvenue helper package",
+  "authors": [
+    {
+      "name": "Prabhakar Bhat",
+      "email": "prabhakar@langoor.com"
+    },
+    {
+      "name": "Amit Paul",
+      "email": "amitp@langoor.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jaysson\\CCAvenue\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
